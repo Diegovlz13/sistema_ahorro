@@ -1,3 +1,7 @@
 from savings_plan import SavingsPlan
 
-print("Hola, Git + Python!")
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()
